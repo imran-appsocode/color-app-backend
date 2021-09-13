@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2490045-628a-46df-9e45-e34ba7a4ec08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1mC2vW8vZ2glyYKcZo0vPZP6api" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Hobsons/data-ingest-detection" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2490045-628a-46df-9e45-e34ba7a4ec08" name="Default Changelist" comment="" />
+      <created>1608983482792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608983482792</updated>
+      <workItem from="1608983483876" duration="12317000" />
+      <workItem from="1609694129934" duration="4925000" />
+      <workItem from="1610325439228" duration="4006000" />
+      <workItem from="1610480049260" duration="7059000" />
+      <workItem from="1610573411535" duration="1980000" />
+      <workItem from="1610622990346" duration="80000" />
+      <workItem from="1610905347431" duration="1675000" />
+      <workItem from="1610991886279" duration="629000" />
+      <workItem from="1611611770771" duration="1210000" />
+      <workItem from="1611686304919" duration="2241000" />
+      <workItem from="1611691445661" duration="7724000" />
+      <workItem from="1611778202919" duration="4480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl" timestamp="1611039267278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611039267278" />
+    <state x="100" y="99" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611783854646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="99" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611783854646" />
+    <state x="665" y="142" width="589" height="753" key="find.popup" timestamp="1610481199769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="142" width="589" height="753" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610481199769" />
+  </component>
+</project>
